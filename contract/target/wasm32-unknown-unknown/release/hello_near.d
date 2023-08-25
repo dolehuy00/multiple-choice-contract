@@ -1,1 +1,0 @@
-/home/huydo/Workspace/miltiple-choice/contract/target/wasm32-unknown-unknown/release/hello_near.wasm: /home/huydo/Workspace/miltiple-choice/contract/src/lib.rs /home/huydo/Workspace/miltiple-choice/contract/src/metadata.rs /home/huydo/Workspace/miltiple-choice/contract/src/mutilple_choice.rs
